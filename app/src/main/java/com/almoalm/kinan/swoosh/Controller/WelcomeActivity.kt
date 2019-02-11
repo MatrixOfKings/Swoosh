@@ -2,8 +2,9 @@ package com.almoalm.kinan.swoosh.Controller
 
 import android.content.Intent
 import android.os.Bundle
-import com.almoalm.kinan.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
+import com.almoalm.kinan.swoosh.R
+
 
 class WelcomeActivity : BaseActivity() {
 
